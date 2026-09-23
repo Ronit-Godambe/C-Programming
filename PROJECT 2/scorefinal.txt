@@ -1,0 +1,38 @@
+Win it or not - Wasted precious time sucessfully \(^.^)/
+
+Round 1:
+You Chose: Rock	Computer Chose: Rock
+
+It was a draw	 No. of draws: 1
+
+--------------------------------------------------------
+Round 2:
+You chose: Paper	 Computer Chose: Scissors
+You lost.
+Your Score: 0	Computer's score: 1
+
+--------------------------------------------------------
+Round 3:
+You chose: Paper	 Computer Chose: Scissors
+You lost.
+Your Score: 0	Computer's score: 2
+
+--------------------------------------------------------
+Round 4:
+You chose: Rock	 Computer Chose: Paper
+You lost.
+Your Score: 0	Computer's score: 3
+
+--------------------------------------------------------
+Round 5:
+You chose: Rock	 Computer Chose: Scissors
+You Won!
+Your Score: 1	Computer's score: 3
+
+--------------------------------------------------------
+Round 6:
+You quit.....(realised after 6 round(s))
+
+ Your Final Score: 1	Computer's final score: 3	 Total no. of draws: 1
+
+YOU LOST. LOSER (o_o)
